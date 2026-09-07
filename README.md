@@ -24,7 +24,7 @@ practical and user-friendly software solutions.
 - 🎓 B.E. Computer Science and Engineering
 - 🏫 Dr. N.G.P. Institute of Technology, Coimbatore
 - 📅 Graduation: 2027
-- 📊 CGPA: 8.54
+- 📊 CGPA: 8.53
 - 💡 Interested in Full Stack Development, UI/UX Design, Data Analysis and AI/ML
 - 🌱 Currently improving my skills in DSA, DBMS, Backend Development and Machine Learning
 - 🚀 Interested in building real-world applications
