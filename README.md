@@ -1,215 +1,163 @@
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:2F73BF,100:4FACFE&height=180&section=header" />
+
 # 👋 Hi, I'm Subamathi R
 
-### 💻 Computer Science & Engineering Student | Full Stack Developer | AI/ML Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full+Stack+Development;UI%2FUX+Design;Data+Analysis" />
 
-<p align="left">
-  <a href="https://github.com/subamathiR">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/subamathiR">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://leetcode.com/u/SubamathiR/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode" />
-  </a>
-</p>
+<br/>
 
----
+<a href="https://www.linkedin.com/in/subamathi-r-993878297" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:subamathi881@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/SubamathiR/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://github.com/subamathiR" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-## 👩‍💻 About Me
+📞 9092836476 &nbsp;|&nbsp; 📍 Coimbatore, India
 
-I am a passionate **Computer Science and Engineering student** interested in building
-practical and user-friendly software solutions.
 
-- 🎓 B.E. Computer Science and Engineering
-- 🏫 Dr. N.G.P. Institute of Technology, Coimbatore
-- 📅 Graduation: 2027
-- 📊 CGPA: 8.53
-- 💡 Interested in Full Stack Development, UI/UX Design, Data Analysis and AI/ML
-- 🌱 Currently improving my skills in DSA, DBMS, Backend Development and Machine Learning
-- 🚀 Interested in building real-world applications
+</div>
 
----
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:2F73BF&height=3" />
 
 ## 🎯 Career Objective
 
-To work in an organization where I can utilize my technical skills, learn from
-experienced professionals, and grow personally and professionally while
-contributing to the company's success.
+To work in an organization where I can use my skills, learn from experienced professionals, and grow personally and professionally while contributing to the company's success.
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:2F73BF&height=3" />
 
-## 🛠️ Technical Skills
+## 🎓 Academic Qualification
 
-### 💻 Programming Languages
+| Qualification | Institution | Year |
+|---|---|---|
+| Bachelor of Computer Science and Engineering (CGPA: 8.53, till sem 6) | Dr.N.G.P Institute Of Technology | 2023 – 2027 |
+| Higher Secondary (88.83%) | PSG Sarvajana Higher Secondary School | 2023 |
+| SSLC | PSG Sarvajana Higher Secondary School | 2021 |
 
-![Java](https://img.shields.io/badge/Java-Intermediate-orange?style=flat-square&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=flat-square&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-blue?style=flat-square&logo=php)
-![SQL](https://img.shields.io/badge/SQL-Database-blue?style=flat-square&logo=mysql)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:2F73BF&height=3" />
 
-### 🌐 Frontend Development
+## 💡 Area of Interest
 
-![HTML5](https://img.shields.io/badge/HTML5-Advanced-E34F26?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-Advanced-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-F7DF1E?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/React-Intermediate-61DAFB?style=flat-square&logo=react)
+<p>
+<img src="https://img.shields.io/badge/-Full%20Stack%20Development-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-UI%2FUX%20Design-2F73BF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-Data%20Analysis-4FACFE?style=for-the-badge"/>
+</p>
 
-### ⚙️ Backend Development
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:2F73BF&height=3" />
 
-![Node.js](https://img.shields.io/badge/Node.js-Intermediate-339933?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-Backend-black?style=flat-square&logo=express)
-![PHP](https://img.shields.io/badge/PHP-Backend-777BB4?style=flat-square&logo=php)
+## 🧰 Skills
 
-### 🗄️ Databases
+**Programming Language**
 
-![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?style=flat-square&logo=mongodb)
+<img src="https://skillicons.dev/icons?i=java" height="35" />
 
-### 🤖 AI / Machine Learning
+<br/>
 
-![Python](https://img.shields.io/badge/Python-ML-3776AB?style=flat-square&logo=python)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-ML-FF6F00?style=flat-square&logo=tensorflow)
-![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-D00000?style=flat-square&logo=keras)
-![NumPy](https://img.shields.io/badge/NumPy-Analysis-013243?style=flat-square&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat-square&logo=pandas)
+**Core Concepts**
 
-### 🔧 Tools
+<img src="https://img.shields.io/badge/OOPs-6C63FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/DBMS-2F73BF?style=for-the-badge"/> <img src="https://img.shields.io/badge/DSA%20(Basic)-4FACFE?style=for-the-badge"/>
 
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-Code%20Hosting-181717?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC?style=flat-square&logo=visualstudiocode)
-![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-Database%20Tool-47A248?style=flat-square&logo=mongodb)
-![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=flat-square&logo=powerbi)
+<br/>
+<br/>
 
----
+**Frontend**
 
-## 🚀 Featured Projects
+<img src="https://skillicons.dev/icons?i=html,css,js,react" height="35" />
 
-### 🤖 EnglishMaster AI
+<br/>
 
-**AI-Powered English Learning Platform**
+**Backend**
 
-A full-stack gamified English learning platform designed to improve English
-communication skills through AI-powered learning.
+<img src="https://skillicons.dev/icons?i=nodejs" height="35" />
 
-**Features:**
-- 🤖 AI Tutor
-- 📚 CEFR-based learning levels (A1–C2)
-- 📝 Interactive quizzes
-- 📈 Progress tracking
-- 💬 AI-powered conversations
-- 📖 Grammar and vocabulary support
+<br/>
 
-**Technologies:**
-`React.js` `Node.js` `Express.js` `MongoDB` `Groq API` `JWT`
+**Database**
 
----
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" height="35" />
 
-### 💰 AI Expense Management System
+<br/>
 
-An intelligent expense management system designed to simplify expense tracking
-and automate financial management.
+**Design Skills**
 
-**Features:**
-- 📸 Receipt scanning
-- 🔍 Automatic data extraction
-- 🏷️ Automatic expense categorization
-- ✅ Policy compliance checking
-- 🚨 Fraud detection
-- 💵 Budget tracking
-- 📊 Expense reports
-- 🚗 Mileage tracking
+<img src="https://img.shields.io/badge/Responsive%20Web%20Design-6C63FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/UI%2FUX%20Design%20Basics-2F73BF?style=for-the-badge"/>
 
-**Technologies:**
-`HTML5` `CSS3` `JavaScript` `Node.js` `MongoDB` `AI/OCR APIs`
+<br/>
+<br/>
 
----
+**Tools**
 
-### 🚌 BusTrack
+<img src="https://skillicons.dev/icons?i=vscode,git,github,sublime" height="35" /> &nbsp; <img src="https://img.shields.io/badge/MongoDB%20Compass-47A248?style=for-the-badge"/>
 
-A smart bus tracking and monitoring platform designed to provide useful
-transportation information and improve the overall bus-travel experience.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:2F73BF&height=3" />
 
-**Technologies:**
-`HTML5` `CSS3` `JavaScript` `Node.js` `MongoDB`
+## 🌟 Projects
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧵 Revolutionizing Fashion: Empowering User To Design, Customize And Order Their Perfect Outfit
+**Timeline: 2024 – 2026**
+
+- Developed a website for users to customize outfits by selecting fabric, color, and style with AI body measurement support
+- Added designer chat, feedback, and return features to improve customer experience and managed user/order data
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" height="35" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🗣️ EnglishMaster AI – AI-Powered English Learning Platform
+**Timeline: 2026**
+
+- Developed a full-stack gamified English learning platform with an AI Tutor, CEFR-based courses (A1–C2), quizzes, skill training, and progress tracking features
+- Integrated Groq API for AI-powered conversations, grammar correction, and vocabulary support with secure authentication, dashboards, XP rewards, and leaderboards
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb" height="35" />
+
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:2F73BF&height=3" />
 
 ## 💼 Internship
 
-### Web Development Intern
-**MIST Software Solutions Pvt. Ltd., Coimbatore**
+**Web Development** — MIST Software Solutions Pvt. Ltd., Coimbatore *(June 2025, 15 days)*
 
-**June 2025 — 15 Days**
+- Contributed to the development and maintenance of the Vitri Foods website, gaining hands-on experience in real-time web development projects
+- Worked on SEO optimization, content updates, and location-based keyword improvements to enhance website visibility
 
-- Contributed to the development and maintenance of the Vetrii Foods website.
-- Worked on real-time web development tasks.
-- Improved website content and structure.
-- Performed SEO optimization.
-- Implemented location-based keyword improvements to enhance website visibility.
-
----
-
-## 🎓 Education
-
-### B.E. Computer Science and Engineering
-
-**Dr. N.G.P. Institute of Technology, Coimbatore**
-
-📅 2023 – 2027  
-📊 CGPA: **8.54**
-
-### Higher Secondary Education
-
-**PSG Sarvajana Higher Secondary School**
-
-📅 2023  
-📊 HSC Percentage: **88.83%**
-
-### SSLC
-
-**PSG Sarvajana Higher Secondary School**
-
-📅 2021
-
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:2F73BF&height=3" />
 
 ## 📜 Certifications
 
-- 🏆 Responsive Web Design — July 19, 2024
-- 🏆 Website UI/UX Design — July 6, 2025
-- 🏆 Full Stack Development 101 — July 6, 2025
-- 🏆 Data Analytics (30-Day Course) — July 28, 2025 – September 1, 2025
-- 🏆 Gen AI 101 — June 24, 2026
-- 🏆 NPTEL — Cloud Computing
-- 🏆 NPTEL — Introduction to IoT
+<details>
+<summary><b>Click to expand</b></summary>
+<br/>
 
----
+| Certification | Date |
+|---|---|
+| Responsive Web Design | July 19, 2024 |
+| Website UI/UX Design (Using ChatGPT) | July 6, 2025 |
+| Full Stack Development 101 | July 6, 2025 |
+| Data Analytics (30-Day Course) | July 28, 2025 – September 1, 2025 |
+| Gen AI 101 | June 24, 2026 |
 
-## 💡 Areas of Interest
+</details>
 
-- 🌐 Full Stack Development
-- 🎨 UI/UX Design
-- 📊 Data Analysis
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧠 Data Structures & Algorithms
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:2F73BF&height=3" />
 
----
+## 🎉 Extra-Curricular Activities
 
-## 📚 Currently Learning
+- Participated in TATA Crucible Campus Quiz 2025
+- Participated in Augmented Reality App Development Workshop, CIT – March 2024
+- Participated in Machine Learning Workshop, CIT – March 2024
 
-```text
-Data Structures & Algorithms
-        ↓
-      DBMS
-        ↓
-      OOPs
-        ↓
-Operating Systems
-        ↓
-Computer Networks
-        ↓
-Full Stack Development
-        ↓
-   AI / Machine Learning
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4FACFE,50:2F73BF,100:6C63FF&height=150&section=footer" />
